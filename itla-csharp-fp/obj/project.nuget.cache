@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "shpcpB+cURY=",
+  "success": true,
+  "projectFilePath": "/home/hanuel/RiderProjects/itla-csharp-fp/itla-csharp-fp/itla-csharp-fp.csproj",
+  "expectedPackageFiles": [
+    "/home/hanuel/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.8/microsoft.aspnetcore.app.ref.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
