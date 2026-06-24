@@ -1,3 +1,146 @@
-{
-
-}
+[
+  {
+    "FirstName": "carlota",
+    "LastName": "peralta",
+    "Email": "mariagonzalez@gmail.com",
+    "Gender": "f",
+    "Career": "ingenieria civil",
+    "FinalNote": 75,
+    "RegistrationNumber": "2026-002",
+    "DateOfBirth": "2004-06-03T00:00:00",
+    "FullName": "carlota peralta",
+    "Age": 22
+  },
+  {
+    "FirstName": "jose",
+    "LastName": "martinez",
+    "Email": "josemartinez@gmail.com",
+    "Gender": "m",
+    "Career": "arquitectura",
+    "FinalNote": 78,
+    "RegistrationNumber": "2026-003",
+    "DateOfBirth": "2003-04-08T00:00:00",
+    "FullName": "jose martinez",
+    "Age": 23
+  },
+  {
+    "FirstName": "ana",
+    "LastName": "hernandez",
+    "Email": "anahernandez@gmail.com",
+    "Gender": "f",
+    "Career": "dise\u00F1o grafico",
+    "FinalNote": 95,
+    "RegistrationNumber": "2026-004",
+    "DateOfBirth": "2006-01-30T00:00:00",
+    "FullName": "ana hernandez",
+    "Age": 20
+  },
+  {
+    "FirstName": "luis",
+    "LastName": "torres",
+    "Email": "luistorres@gmail.com",
+    "Gender": "m",
+    "Career": "contabilidad",
+    "FinalNote": 45,
+    "RegistrationNumber": "2026-005",
+    "DateOfBirth": "2002-04-14T00:00:00",
+    "FullName": "luis torres",
+    "Age": 24
+  },
+  {
+    "FirstName": "sofia",
+    "LastName": "ramirez",
+    "Email": "sofiaramirez@gmail.com",
+    "Gender": "f",
+    "Career": "psicologia",
+    "FinalNote": 88,
+    "RegistrationNumber": "2026-006",
+    "DateOfBirth": "2005-05-20T00:00:00",
+    "FullName": "sofia ramirez",
+    "Age": 21
+  },
+  {
+    "FirstName": "miguel",
+    "LastName": "reyes",
+    "Email": "miguelreyes@gmail.com",
+    "Gender": "m",
+    "Career": "derecho",
+    "FinalNote": 60,
+    "RegistrationNumber": "2026-007",
+    "DateOfBirth": "2001-04-01T00:00:00",
+    "FullName": "miguel reyes",
+    "Age": 25
+  },
+  {
+    "FirstName": "laura",
+    "LastName": "morales",
+    "Email": "lauramorales@gmail.com",
+    "Gender": "f",
+    "Career": "administracion",
+    "FinalNote": 70,
+    "RegistrationNumber": "2026-008",
+    "DateOfBirth": "2004-04-18T00:00:00",
+    "FullName": "laura morales",
+    "Age": 22
+  },
+  {
+    "FirstName": "daniel",
+    "LastName": "castillo",
+    "Email": "danielcastillo@gmail.com",
+    "Gender": "m",
+    "Career": "marketing",
+    "FinalNote": 55,
+    "RegistrationNumber": "2026-009",
+    "DateOfBirth": "2000-03-25T00:00:00",
+    "FullName": "daniel castillo",
+    "Age": 26
+  },
+  {
+    "FirstName": "valentina",
+    "LastName": "ortiz",
+    "Email": "valentinaortiz@gmail.com",
+    "Gender": "f",
+    "Career": "biologia",
+    "FinalNote": 97,
+    "RegistrationNumber": "2026-010",
+    "DateOfBirth": "2003-03-12T00:00:00",
+    "FullName": "valentina ortiz",
+    "Age": 23
+  },
+  {
+    "FirstName": "palacios",
+    "LastName": "reyes",
+    "Email": "reyespal@gmail.com",
+    "Gender": "m",
+    "Career": "medicina",
+    "FinalNote": 32,
+    "RegistrationNumber": "2026-776606",
+    "DateOfBirth": "1998-08-05T00:00:00",
+    "FullName": "palacios reyes",
+    "Age": 28
+  },
+  {
+    "FirstName": "maria",
+    "LastName": "jose",
+    "Email": "mariajosefernanda@gmail.com",
+    "Gender": "f",
+    "Career": "derecho",
+    "FinalNote": 65,
+    "RegistrationNumber": "2026-360629",
+    "DateOfBirth": "1974-08-18T00:00:00",
+    "FullName": "maria jose",
+    "Age": 52
+  },
+  {
+    "FirstName": "pedro",
+    "LastName": "fernandez",
+    "Email": "fernandezpedro@gmail.com",
+    "Gender": "m",
+    "Career": "medicina",
+    "FinalNote": 89,
+    "RegistrationNumber": "2026-397133",
+    "DateOfBirth": "2000-07-03T00:00:00",
+    "FullName": "pedro fernandez",
+    "Age": 25
+  }
+]

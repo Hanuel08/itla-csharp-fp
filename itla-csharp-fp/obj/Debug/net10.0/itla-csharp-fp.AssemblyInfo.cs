@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("itla-csharp-fp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60fde591e8059db65be8af5f9a19434a149b1558")]
 [assembly: System.Reflection.AssemblyProductAttribute("itla-csharp-fp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("itla-csharp-fp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

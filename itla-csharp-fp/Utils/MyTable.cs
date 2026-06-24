@@ -1,4 +1,6 @@
-namespace itla_csharp_fp;
+using Spectre.Console;
+
+namespace itla_csharp_fp.Utils;
 
 public class MyTable
 {
@@ -28,21 +30,12 @@ public class MyTable
 
     public void AddRow(params List<string> row)
     {
-        //List<string> row = new List<string>();
-
         for (int i = 0; i < row.Count; i++) if (row[i].Length > rowLength[i]) rowLength[i] = row[i].Length;
-        
-        
         matrix.Add(row);
     }
 
     public void Write()
     {
-        // foreach (string s in Head)
-        // {
-        //     Console.WriteLine(s);
-        // }
-
         string rowLine = "";
 
         for (int i = 0; i < rowLength.Count; i++)
@@ -59,12 +52,12 @@ public class MyTable
                 Console.WriteLine(rowLine);
                 Console.Write($"| ");
             }
-            Console.Write(Head[i].ToUpper());
+            //Console.Write(Head[i].ToUpper());
+            AnsiConsole.Markup($"[bold white]{Head[i].ToUpper()}[/]");
             Console.Write($"{FillRowLineSpace(rowLength[i] - Head[i].Length)} | ");
         }
         
         Console.WriteLine();
-        //Console.WriteLine(rowLine);
 
         if (matrix.Count == 0)
         {

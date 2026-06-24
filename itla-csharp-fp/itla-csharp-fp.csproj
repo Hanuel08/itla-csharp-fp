@@ -8,4 +8,9 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Spectre.Console" Version="0.57.0" />
+      <PackageReference Include="Spectre.Console.Cli" Version="0.55.1-alpha.0.7" />
+    </ItemGroup>
+
 </Project>

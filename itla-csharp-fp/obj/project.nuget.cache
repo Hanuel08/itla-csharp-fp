@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "shpcpB+cURY=",
+  "dgSpecHash": "olbvf3jn1iY=",
   "success": true,
   "projectFilePath": "/home/hanuel/RiderProjects/itla-csharp-fp/itla-csharp-fp/itla-csharp-fp.csproj",
   "expectedPackageFiles": [
+    "/home/hanuel/.nuget/packages/spectre.console/0.57.0/spectre.console.0.57.0.nupkg.sha512",
+    "/home/hanuel/.nuget/packages/spectre.console.ansi/0.57.0/spectre.console.ansi.0.57.0.nupkg.sha512",
+    "/home/hanuel/.nuget/packages/spectre.console.cli/0.55.1-alpha.0.7/spectre.console.cli.0.55.1-alpha.0.7.nupkg.sha512",
     "/home/hanuel/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.8/microsoft.aspnetcore.app.ref.10.0.8.nupkg.sha512"
   ],
   "logs": []

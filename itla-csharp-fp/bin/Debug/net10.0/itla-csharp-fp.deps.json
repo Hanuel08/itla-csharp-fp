@@ -1,0 +1,110 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "itla-csharp-fp/1.0.0": {
+        "dependencies": {
+          "Spectre.Console": "0.57.0",
+          "Spectre.Console.Cli": "0.55.1-alpha.0.7"
+        },
+        "runtime": {
+          "itla-csharp-fp.dll": {}
+        }
+      },
+      "Spectre.Console/0.57.0": {
+        "dependencies": {
+          "Spectre.Console.Ansi": "0.57.0"
+        },
+        "runtime": {
+          "lib/net10.0/Spectre.Console.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.57.0.0"
+          }
+        }
+      },
+      "Spectre.Console.Ansi/0.57.0": {
+        "runtime": {
+          "lib/net10.0/Spectre.Console.Ansi.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.57.0.0"
+          }
+        }
+      },
+      "Spectre.Console.Cli/0.55.1-alpha.0.7": {
+        "dependencies": {
+          "Spectre.Console": "0.57.0"
+        },
+        "runtime": {
+          "lib/net10.0/Spectre.Console.Cli.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.55.1.0"
+          }
+        },
+        "resources": {
+          "lib/net10.0/de/Spectre.Console.Cli.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net10.0/es/Spectre.Console.Cli.resources.dll": {
+            "locale": "es"
+          },
+          "lib/net10.0/fr/Spectre.Console.Cli.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net10.0/it/Spectre.Console.Cli.resources.dll": {
+            "locale": "it"
+          },
+          "lib/net10.0/ja/Spectre.Console.Cli.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/net10.0/ko/Spectre.Console.Cli.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/net10.0/pt/Spectre.Console.Cli.resources.dll": {
+            "locale": "pt"
+          },
+          "lib/net10.0/ru/Spectre.Console.Cli.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net10.0/sv/Spectre.Console.Cli.resources.dll": {
+            "locale": "sv"
+          },
+          "lib/net10.0/zh-Hans/Spectre.Console.Cli.resources.dll": {
+            "locale": "zh-Hans"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "itla-csharp-fp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Spectre.Console/0.57.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-X5+4ZsUYTPlTs5PEoKRlxUuKOa1AkEoAGM34pUeJPjsBdtOnvnaVb31hqewhooomihl1i9fEBid1fz8XxZTacQ==",
+      "path": "spectre.console/0.57.0",
+      "hashPath": "spectre.console.0.57.0.nupkg.sha512"
+    },
+    "Spectre.Console.Ansi/0.57.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DGeYljyWAIHSeUAoUGqyzyOqS8WlsHKW+y4zOZ0OO61oqrhx90jHS+XG5Kpq/wWz6ovIs2VL/0CTKpUVa7tdWg==",
+      "path": "spectre.console.ansi/0.57.0",
+      "hashPath": "spectre.console.ansi.0.57.0.nupkg.sha512"
+    },
+    "Spectre.Console.Cli/0.55.1-alpha.0.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-t+cNOiJl85oWM/3frWyR7l2GVwRlYTglV7+QlO3GKzF7zERFeVDx+j+0gAEV9fJ1u2t2UA+hX9nG79qIuJaQ8A==",
+      "path": "spectre.console.cli/0.55.1-alpha.0.7",
+      "hashPath": "spectre.console.cli.0.55.1-alpha.0.7.nupkg.sha512"
+    }
+  }
+}
